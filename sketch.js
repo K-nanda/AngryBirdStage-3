@@ -12,7 +12,7 @@ var log, chain;
 
 
 function preload() {
-    backgroundImg = loadImage("sprites/bg.png");
+    backgroundImg = loadImage("bg.png");
 }
 
 function setup(){
